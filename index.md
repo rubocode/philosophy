@@ -1,5 +1,4 @@
 > [home](/)
-> &bull; [profile](/profile)
 
 ![banner](/philosophy/photos/banner.png)
 
