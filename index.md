@@ -7,4 +7,4 @@
 > The unexamined life is not worth living.  
 > **Socrates**
 
-* [Introduction](introduction)
+* [Governance](/governance)
