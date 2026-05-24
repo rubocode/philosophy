@@ -7,4 +7,5 @@
 > The unexamined life is not worth living.  
 > **Socrates**
 
+* [Vision Sri Lanka](/vision-lk)
 * [Governance](/governance)
