@@ -10,3 +10,4 @@
 * [Introduction](introduction)
 * [Genetics](/genetics)
 * [Ideology](/ideology)
+* [Spirit](/spirit)
