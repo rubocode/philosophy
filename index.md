@@ -6,3 +6,7 @@
 
 > The unexamined life is not worth living.  
 > **Socrates**
+
+* [Introduction](introduction)
+* [Genetics](/genetics)
+* [Ideology](/ideology)
