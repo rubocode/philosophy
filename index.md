@@ -4,8 +4,8 @@
 
 ## Understanding Life
 
-> The unexamined life is not worth living.  
-> **Socrates**
+> Life is a refined study of the obvious.  
+> **Jim Rohn**
 
 * [Introduction](introduction)
 * [Genetics](/genetics)
